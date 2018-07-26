@@ -6,4 +6,4 @@ I have also provided the EDU files that contain the segmentation of the sections
 
 The following paper provides context for the code and documents:
 
-*[Cross-Domain Patterns of Discourse Segmentation](https://drive.google.com/open?id=1CWHr2ARw-SzQfTmfVNl-miREK1urhlKd)*
+*[Cross-Domain Patterns of Discourse Segmentation](https://drive.google.com/open?id=1GmLD1b3kMOFJgkkZ1oslvAwqFBvGLnV2)*
